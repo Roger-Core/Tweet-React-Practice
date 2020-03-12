@@ -1,0 +1,9 @@
+.users {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    flex-wrap: wrap;
+    min-height: 100vh;
+    background-color: rgb(96, 168, 192);
+}
+  
