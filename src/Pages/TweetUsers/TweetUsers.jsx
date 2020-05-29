@@ -8,7 +8,7 @@ function TweetUsers() {
         {
             id: 1,
             name: 'Roger',
-            message: 'Hello it is wednesday my duuuuude',
+            message: 'Hello it is wednesday my duuuuudeeess',
             likes: 122
         },
         {
